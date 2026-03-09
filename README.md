@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Amith Balasubramanya 👋
 
 Biomedical Engineer | Computational Biomechanics | Fluid-Structure Interaction
